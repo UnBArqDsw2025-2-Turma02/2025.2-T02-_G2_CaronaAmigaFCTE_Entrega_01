@@ -1,27 +1,22 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2025.1(T01)_G1_Embarcado_Entrega_01*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# FCTE - "Colocar nome aq"
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: G2 - CaronaAmigaFCTE<br>
 **Entrega**: 01<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula   | Aluno                                         |
+|-------------|-----------------------------------------------|
+| 231027023   | Amanda Cruz Lima                              |
+| 221022462   | Arthur da Silveira Sousa                      |
+| 231027195   | Caio Venâncio do Rosário                      |
+| 221022490   | Cauã Araujo dos Santos                        |
+| 231026975   | Kaleb de Souza Macedo                         |
+| 231035446   | Lucas Monteiro Freitas                        |
+| 231026483   | Maria Eduarda de Amorim Galdino               |
+| 231039150   | Othavio Araujo Bolzan                         |
+| 211063229   | Pedro Henrique dos Santos Ferreira            |
+|    |                            |
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
