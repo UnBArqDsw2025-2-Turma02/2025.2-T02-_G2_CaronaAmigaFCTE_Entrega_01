@@ -1,4 +1,4 @@
-# FCTE - "Colocar nome aq"
+# Carona Amiga
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: G2 - CaronaAmigaFCTE<br>
