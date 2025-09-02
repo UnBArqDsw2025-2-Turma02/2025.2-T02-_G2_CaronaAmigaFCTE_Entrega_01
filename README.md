@@ -36,16 +36,16 @@ docsify serve ./docs
   
   <table style="width: 100%;">
   <tr>
-    <td align="center"><a href="https://github.com/mandicrz"><img style="border-radius: 50%;" src="https://github.com/mandicrz.png" width="100px;" alt="Imagem de Amanda Cruz Lima"/><br /><sub><b>Amanda Cruz Lima</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Tutzs"><img style="border-radius: 50%;" src="https://github.com/Tutzs.png" width="100px;" alt="Imagem de Arthur da Silveira Sousa"/><br /><sub><b>Arthur da Silveira Sousa</b></sub></a></td>
-    <td align="center"><a href="https://github.com/caio-venancio"><img style="border-radius: 50%;" src="https://github.com/caio-venancio.png" width="100px;" alt="Imagem de Caio Venâncio do Rosário"/><br /><sub><b>Caio Venâncio do Rosário</b></sub></a></td>
-    <td align="center"><a href="https://github.com/caua08"><img style="border-radius: 50%;" src="https://github.com/caua08.png" width="100px;" alt="Imagem de Cauã Araujo dos Santos"/><br /><sub><b>Cauã Araujo dos Santos</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kalebmacedo"><img style="border-radius: 50%;" src="https://github.com/kalebmacedo.png" width="100px;" alt="Imagem de Kaleb de Souza Macedo"/><br /><sub><b>Kaleb de Souza Macedo</b></sub></a></td>
-    <td align="center"><a href="https://github.com/LucasMF1"><img style="border-radius: 50%;" src="https://github.com/LucasMF1.png" width="100px;" alt="Imagem de Lucas Monteiro Freitas "/><br /><sub><b>Lucas Monteiro Freitas</b></sub></a></td>
-    <td align="center"><a href="https://github.com/pyramidsf"><img style="border-radius: 50%;" src="https://github.com/pyramidsf.png" width="100px;" alt="Imagem de Maria Eduarda de Amorim Galdino"/><br /><sub><b>Maria Eduarda de Amorim Galdino</b></sub></a></td>
-    <td align="center"><a href="https://github.com/bolzanMGB"><img style="border-radius: 50%;" src="https://github.com/bolzanMGB.png" width="100px;" alt="Imagem de Othavio Araujo Bolzan"/><br /><sub><b>Othavio Araujo Bolzan</b></sub></a></td>
-    <td align="center"><a href="https://github.com/pedro-hsf"><img style="border-radius: 50%;" src="https://github.com/pedro-hsf.png" width="100px;" alt="Imagem de Pedro Henrique dos Santos FerreiraAraújo"/><br /><sub><b>Pedro Henrique dos Santos Ferreira</b></sub></a></td>
-    <!-- <td align="center"><a href="https://github.com/ViictorHugoo"><img style="border-radius: 50%;" src="https://github.com/ViictorHugoo.png" width="100px;" alt="Imagem de Victor Hugo Rodrigues Guimarães"/><br /><sub><b>Victor Hugo Rodrigues Guimarães</b></sub></a></td> -->
+    <td align="center"><a href="https://github.com/mandicrz"><img style="border-radius: 50%;" src="https://github.com/mandicrz.png" width="100%;" alt="Imagem de Amanda Cruz Lima"/><br /><sub><b>Amanda Cruz</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Tutzs"><img style="border-radius: 50%;" src="https://github.com/Tutzs.png" width="100%;" alt="Imagem de Arthur da Silveira Sousa"/><br /><sub><b>Arthur Sousa</b></sub></a></td>
+    <td align="center"><a href="https://github.com/CaioMelo25"><img style="border-radius: 50%;" src="https://github.com/CaioMelo25.png" width="100%;" alt="Imagem de Victor Hugo Rodrigues Guimarães"/><br /><sub><b>Caio Melo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/caio-venancio"><img style="border-radius: 50%;" src="https://github.com/caio-venancio.png" width="100%;" alt="Imagem de Caio Venâncio do Rosário"/><br /><sub><b>Caio Venâncio</b></sub></a></td>
+    <td align="center"><a href="https://github.com/caua08"><img style="border-radius: 50%;" src="https://github.com/caua08.png" width="100%;" alt="Imagem de Cauã Araujo dos Santos"/><br /><sub><b>Cauã Araujo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/kalebmacedo"><img style="border-radius: 50%;" src="https://github.com/kalebmacedo.png" width="100%;" alt="Imagem de Kaleb de Souza Macedo"/><br /><sub><b>Kaleb Macedo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/LucasMF1"><img style="border-radius: 50%;" src="https://github.com/LucasMF1.png" width="100%;" alt="Imagem de Lucas Monteiro Freitas "/><br /><sub><b>Lucas Monteiro</b></sub></a></td>
+    <td align="center"><a href="https://github.com/pyramidsf"><img style="border-radius: 50%;" src="https://github.com/pyramidsf.png" width="100%;" alt="Imagem de Maria Eduarda de Amorim Galdino"/><br /><sub><b>Maria Eduarda</b></sub></a></td>
+    <td align="center"><a href="https://github.com/bolzanMGB"><img style="border-radius: 50%;" src="https://github.com/bolzanMGB.png" width="100%;" alt="Imagem de Othavio Araujo Bolzan"/><br /><sub><b>Othavio Bolzan</b></sub></a></td>
+    <td align="center"><a href="https://github.com/pedro-hsf"><img style="border-radius: 50%;" src="https://github.com/pedro-hsf.png" width="100%;" alt="Imagem de Pedro Henrique dos Santos FerreiraAraújo"/><br /><sub><b>Pedro Henrique</b></sub></a></td>
   </tr>
   </table> 
 
