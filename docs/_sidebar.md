@@ -10,6 +10,6 @@
     - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
       - [1.5.1. Atas de Reunião](Base/Atas.md)
-        - [Ata de Reuniao](docs/Base/Atas/Atas.md)
-        - [Ata de Reuniao 02](docs/Base/Atas/Atas01.md) 
+        - [Ata de Reuniao](Base/Atas/Atas.md)
+        - [Ata de Reuniao 02](Base/Atas/Atas01.md) 
       - [1.5.2. Heatmap](Base/heatmap.md)
