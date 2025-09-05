@@ -1,10 +1,10 @@
-# Ata de Reunião 01 - Projeto Carona Amiga
+O vigente documento tem como objetivo registrar as atas das reuniões realizadas pela equipe no período de desenvolvimento da primeira entrega. Aqui constarão as decisões tomadas de conforma conjunta, bem como suas especificações para futura consulta.
+
+## Ata 01 - Design Sprint: Etapa 1 (Unpack)
 
 **Data:** 29/08/2025
 **Horário:** Noite
 **Local:** Reunião Online - Microsoft Teams 
-
----
 
 ### Presentes
 
@@ -18,17 +18,12 @@
 * Othavio Araujo Bolzan
 * Pedro Henrique dos Santos Ferreira
 
-
----
-
 ### Pauta da Reunião
 
 1.  Definição do tema e escopo inicial do projeto.
 2.  Discussão sobre a plataforma de desenvolvimento (Site, Desktop ou Mobile).
 3.  Organização das próximas *sprints* e agendamento de reuniões.
 4.  Definição da plataforma de comunicação e documentação da equipe.
-
----
 
 ### Deliberações e Decisões
 
@@ -50,12 +45,44 @@
     * Foi discutida e aprovada a criação de um canal centralizado para a equipe, preferencialmente uma **equipe no Microsoft Teams**.
     * O objetivo é manter todas as gravações, arquivos e discussões salvas e acessíveis para todos os membros.
 
----
+# Ata 02 - Design Sprint: Etapa 2 (Sketch)
+
+**Data:** 01/09/2025
+**Horário:** Manhã 
+**Local:** Reunião Presencial - UnB FCTE
+
+### Presentes
+
+* Amanda Cruz Lima
+* Arthur da Silveira Sousa
+* Caio Melo Borges 
+* Caio Venâncio do Rosário
+* Cauã Araujo dos Santos
+* Kaleb de Souza Macedo
+* Lucas Monteiro Freitas
+* Maria Eduarda de Amorim Galdino
+* Othavio Araujo Bolzan
+* Pedro Henrique dos Santos Ferreira
+
+### Pauta da Reunião
+
+1.  Revisão do objetivo de longo prazo, mapa e das questões do sprint definidas na Etapa 1.
+2.  Execução do **Processo de Sketch** 
+
+### Resumo das Atividades e Resultados
+
+1.  **Revisão e Inspiração:**
+    * A sessão iniciou com a revisão do mapa do problema e do objetivo do sprint para realinhar a equipe.
+
+2.  **Geração de Soluções Individuais:**
+    * A equipe seguiu o processo de Sketch em etapas de forma silenciosa e individual para maximizar a diversidade de ideias.
+
+3.  **Resultado Final:**
+    * A reunião foi encerrada com um conjunto completo de Sketches de Solução, um de cada participante, prontos para serem avaliados na próxima etapa do Design Sprint ("Decide").
 
 ### Histórico de Versões
 
 | Versão | Data       | Descrição                   | Autor                      | Revisor |
 | :----: | :--------- | :-------------------------- | :------------------------- | :------ |
-|  1.0   | 02/09/2025 | Criação da ata da reunião inicial | [Kaleb de Souza Macedo](https://github.com/kalebmacedo)   |         |
-
----
+|  `1.0`   | 02/09/2025 | Criação da ata da reunião 01 | [Kaleb de Souza Macedo](https://github.com/kalebmacedo)   | [Amanda Cruz](https://github.com/mandicrz) |
+|  `1.1`   | 02/09/2025 | Criação da ata da Reunião 02 | [Kaleb de Souza Macedo](https://github.com/kalebmacedo)   | [Amanda Cruz](https://github.com/mandicrz)   |
