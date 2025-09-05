@@ -22,7 +22,22 @@
 CaronaAmigaFCTE tem como objetivo o desenvolvimento de um aplicativo de caronas voltado para a comunidade acadêmica da Universidade de Brasília – Campus Gama (FCTE). A iniciativa surge da necessidade de propor uma alternativa de mobilidade eficiente, colaborativa e sustentável para os alunos, considerando que muitos residem longe do campus e enfrentam dificuldades com os horários e a qualidade do transporte público disponível.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+### Mapa Mental
+
+<p align="center"> Figura 1 - Mapa Mental Unificado</p>
+
+<p align="center">
+  <img src="../assets/ArtefatoGeneralista/MapaUnificado.png" alt="Mapa Unificado" width="900"/>
+</p>
+
+
+### Rich Picture
+<p align="center">Figura 2 - Rich Picture Unificado</p>
+
+<p align="center">
+  <img src="../assets/ArtefatoGeneralista/richUnificado.png" alt="Rich unificado" width="900"/>
+</p>
 
 ## Há algo a ser executado?
 
