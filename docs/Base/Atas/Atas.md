@@ -1,3 +1,5 @@
+# 1.5.1. Atas de Reunião
+
 O vigente documento tem como objetivo registrar as atas das reuniões realizadas pela equipe no período de desenvolvimento da primeira entrega. Aqui constarão as decisões tomadas de conforma conjunta, bem como suas especificações para futura consulta.
 
 ## Ata 01 - Design Sprint: Etapa 1 (Unpack)
