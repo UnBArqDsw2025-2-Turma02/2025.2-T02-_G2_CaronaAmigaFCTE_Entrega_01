@@ -25,18 +25,18 @@ CaronaAmigaFCTE tem como objetivo o desenvolvimento de um aplicativo de caronas 
 
 ### Mapa Mental
 
-<p align="center"> Figura 1 - Mapa Mental Unificado</p>
+<p align="center"><strong>Figura 1:</strong> Mapa Mental Unificado</p>
 
 <p align="center">
-  <img src="../assets/ArtefatoGeneralista/MapaUnificado.png" alt="Mapa Unificado" width="900"/>
+  <img src="assets/ArtefatoGeneralista/MapaUnificado.png" alt="Mapa Unificado" width="900"/>
 </p>
 
 
 ### Rich Picture
-<p align="center">Figura 2 - Rich Picture Unificado</p>
+<p align="center"><strong>Figura 2:</strong> Rich Picture Unificado</p>
 
 <p align="center">
-  <img src="../assets/ArtefatoGeneralista/richUnificado.png" alt="Rich unificado" width="900"/>
+  <img src="assets/ArtefatoGeneralista/richUnificado.png" alt="Rich unificado" width="900"/>
 </p>
 
 ## Há algo a ser executado?
@@ -49,4 +49,4 @@ CaronaAmigaFCTE tem como objetivo o desenvolvimento de um aplicativo de caronas 
 
 | Versão | Data       | Descrição                            | Autor                                                 | Revisor                                               |
 | :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
-| `1.0`  | 26/08/2025 | Criação do documento                 |  [Arthur](https://github.com/Tutzs)                   |                                                       | 
+| `1.0`  | 26/08/2025 | Criação do documento                 |  [Arthur](https://github.com/Tutzs)                   | [Amanda Cruz](https://github.com/mandicrz)            | 
