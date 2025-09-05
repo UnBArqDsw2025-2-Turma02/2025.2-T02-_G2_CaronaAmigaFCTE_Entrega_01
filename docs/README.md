@@ -47,6 +47,7 @@ CaronaAmigaFCTE tem como objetivo o desenvolvimento de um aplicativo de caronas 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                            | Autor                                                 | Revisor                                               |
-| :----: | ---------- | ------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- |
-| `1.0`  | 26/08/2025 | Criação do documento                 |  [Arthur](https://github.com/Tutzs)                   | [Amanda Cruz](https://github.com/mandicrz)            | 
+| Versão | Data       | Descrição                             | Autor                                                 | Revisor                                               |
+| :----: | ---------- | ---------------------------           | ----------------------------------------------------- | ----------------------------------------------------- |
+| `1.0`  | 26/08/2025 | Criação do documento                  |  [Arthur](https://github.com/Tutzs)                   | [Amanda Cruz](https://github.com/mandicrz)            | 
+| `1.1`  | 04/09/2025 | Adição das *screenshots* dos artefatos    |  [Arthur](https://github.com/Tutzs)                   | [Amanda Cruz](https://github.com/mandicrz)            | 
