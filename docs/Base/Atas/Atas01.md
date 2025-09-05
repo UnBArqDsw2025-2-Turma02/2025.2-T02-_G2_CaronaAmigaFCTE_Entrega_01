@@ -1,8 +1,8 @@
-# Ata de Reunião 02 - Design Sprint: Etapa 2 (Sketch)
+# Ata de Reunião 01 - Projeto Carona Amiga
 
-**Data:** 01/09/2025
-**Horário:** Manhã 
-**Local:** Reunião Presencial - UnB FCTE
+**Data:** 29/08/2025
+**Horário:** Noite
+**Local:** Reunião Online - Microsoft Teams 
 
 ---
 
@@ -10,7 +10,6 @@
 
 * Amanda Cruz Lima
 * Arthur da Silveira Sousa
-* Caio Melo Borges 
 * Caio Venâncio do Rosário
 * Cauã Araujo dos Santos
 * Kaleb de Souza Macedo
@@ -19,31 +18,44 @@
 * Othavio Araujo Bolzan
 * Pedro Henrique dos Santos Ferreira
 
+
 ---
 
 ### Pauta da Reunião
 
-1.  Revisão do objetivo de longo prazo, mapa e das questões do sprint definidas na Etapa 1.
-2.  Execução do **Processo de Sketch** 
+1.  Definição do tema e escopo inicial do projeto.
+2.  Discussão sobre a plataforma de desenvolvimento (Site, Desktop ou Mobile).
+3.  Organização das próximas *sprints* e agendamento de reuniões.
+4.  Definição da plataforma de comunicação e documentação da equipe.
+
 ---
 
-### Resumo das Atividades e Resultados
+### Deliberações e Decisões
 
-1.  **Revisão e Inspiração:**
-    * A sessão iniciou com a revisão do mapa do problema e do objetivo do sprint para realinhar a equipe.
+1.  **Escopo do Projeto:**
+    * Foi proposto por Arthur e aceito pelo grupo o desenvolvimento de um aplicativo de "Carona Amiga".
+    * A principal inspiração para o projeto será a funcionalidade do aplicativo **BlaBlaCar**.
+    * **Funcionalidades iniciais:** O usuário poderá inserir o local de partida, o destino, a data da viagem e o número de passageiros para encontrar opções de carona.
 
-2.  **Geração de Soluções Individuais:**
-    * A equipe seguiu o processo de Sketch em etapas de forma silenciosa e individual para maximizar a diversidade de ideias.
+2.  **Plataforma de Desenvolvimento:**
+    * A equipe decidiu focar no desenvolvimento de um **aplicativo mobile**, por ser a plataforma mais adequada para o tema proposto.
 
-3.  **Resultado Final:**
-    * A reunião foi encerrada com um conjunto completo de Sketches de Solução, um de cada participante, prontos para serem avaliados na próxima etapa do Design Sprint ("Decide").
+3.  **Organização das Sprints e Reuniões:**
+    * Para organizar os horários, cada membro da equipe criará uma **tabela com sua disponibilidade**.
+    * As tabelas individuais serão consolidadas para encontrar os melhores horários em comum para as reuniões.
+    * A frequência sugerida é de, no máximo, **duas reuniões por semana**, com reuniões adicionais entre os trios/subgrupos, se necessário.
+    * Foi reforçada a importância de **gravar todas as reuniões** para futuras consultas.
+
+4.  **Plataforma de Comunicação:**
+    * Foi discutida e aprovada a criação de um canal centralizado para a equipe, preferencialmente uma **equipe no Microsoft Teams**.
+    * O objetivo é manter todas as gravações, arquivos e discussões salvas e acessíveis para todos os membros.
 
 ---
 
 ### Histórico de Versões
 
-| Versão | Data       | Descrição                                 | Autor                                                 | Revisor |
-| :----: | :--------- | :---------------------------------------- | :---------------------------------------------------- | :------ |
-|  1.1   | 02/09/2025 | Criação da ata da Reunião 02 | [Kaleb de Souza Macedo](https://github.com/kalebmacedo) |         |
+| Versão | Data       | Descrição                   | Autor                      | Revisor |
+| :----: | :--------- | :-------------------------- | :------------------------- | :------ |
+|  1.0   | 02/09/2025 | Criação da ata da reunião inicial | [Kaleb de Souza Macedo](https://github.com/kalebmacedo)   |         |
 
 ---
